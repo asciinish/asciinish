@@ -1,3 +1,3 @@
 ## Work in Progress !
 
-<img src="profile_readme.gif" width="720" height="840" />
+<img src="profile_readme.gif" width="1080" height="720" />
